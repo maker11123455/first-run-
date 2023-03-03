@@ -1,0 +1,2 @@
+# first-run-
+https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
